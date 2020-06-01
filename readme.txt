@@ -1,0 +1,1 @@
+This repository is created for use during my Journey as an HNGi7 Intern.
